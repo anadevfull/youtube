@@ -39,11 +39,11 @@ function Menu() {
     Enviarfeedback];
 
  const textMenu = ['Início', 'Shorts', 'Inscricoes', 'Seu Canal',  'Historico',
-   'Playlist', 'Seusvideos',  'Seusfilmes', 'Seuscursos', 'Assistirmaistarde', 
-   'Videoscomgostei', 'Emalta',   'Shopping', 'Musica', 'Filmes', 'Aovivo', 'Jogos', 
-   'Noticias', 'Esportes', 'Cursos',   'Podcasts', 'Youtubepremium', 'Youtubestudio', 
-   'Youtubemusic', 'Youtubekids',   'Configuracoes', 'Historicodedenuncias', 'Ajuda',
-   'Enviarfeedback'];  
+   'Playlist', 'Seusvideos',  'Seus filmes', 'Seuscursos', 'Assistirmaistarde', 
+   'Videos com gostei', 'Em alta',   'Shopping', 'Musica', 'Filmes', 'Aovivo', 'Jogos', 
+   'Noticias', 'Esportes', 'Cursos',   'Podcasts', 'Youtube Premium', 'Youtub Estudio', 
+   'Youtube Music', 'Youtube kids',   'Configuracoes', 'Historico de denuncias', 'Ajuda',
+   'Enviar feedback'];  
 
   const result = iconMenu.map ((item, index) => {
     
