@@ -71,7 +71,7 @@ function Menu() {
             </MenuContent>
           </MenuContainer>
           <PaginaContainer>
-                  Aqui será a Paginação
+                  Aqui será a Paginação em breve
           </PaginaContainer>
       </Container>
 </>
